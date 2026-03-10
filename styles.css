@@ -269,5 +269,7 @@ form div input[type=radio], form div label{
 
 
 html, body{
+    height: auto;
+    width: auto;
     overflow-x: hidden;
 }
